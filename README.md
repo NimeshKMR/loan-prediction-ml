@@ -31,4 +31,3 @@ Predict whether a loan will be approved based on features like income, credit hi
 
 - Decision Tree Hyperparameter tuning
 
-Cross-validation and accuracy scores
