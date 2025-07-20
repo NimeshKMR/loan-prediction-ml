@@ -3,7 +3,7 @@
 A machine learning model to predict loan approval based on applicant data.
 
 ## 📌 Dataset
-Used the [Loan Prediction Dataset](https://www.kaggle.com/datasets) from Kaggle.
+Used the [Loan Prediction Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication) from Kaggle.
 
 ## 🔍 Objective
 Predict whether a loan will be approved based on features like income, credit history, etc.
